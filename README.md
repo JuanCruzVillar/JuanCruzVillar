@@ -12,7 +12,6 @@
 <p>
 I’m a <strong>Computer Engineering student</strong> with a strong interest in software development, especially in backend technologies.<br>
 Currently, I’m focused on becoming a <strong>Backend Developer</strong>, improving my skills with <strong>.NET</strong> and <strong>C#</strong>, while also learning front-end technologies to build complete and efficient solutions.<br>
-I work as a software developer at a company that builds systems for carpentry, contributing to the development of scalable and maintainable software.<br>
 🌱 <strong>Currently learning:</strong> advanced .NET MVC development, clean architecture, and JavaScript best practices.
 </p>
 
