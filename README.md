@@ -10,9 +10,10 @@
 </picture>
 
 <p>
-I’m a <strong>Computer Engineering student</strong> with a strong interest in software development, especially in backend technologies.<br>
-Currently, I’m focused on becoming a <strong>Backend Developer</strong>, improving my skills with <strong>.NET</strong> and <strong>C#</strong>, while also learning front-end technologies to build complete and efficient solutions.<br>
-🌱 <strong>Currently learning:</strong> advanced .NET MVC development, clean architecture.
+I’m a <strong>Programmer student</strong> with a strong interest in software development, especially in backend technologies.<br>
+I’m focused on backend development using .NET and C#, while learning front-end technologies to create complete, user-friendly solutions.
+Currently working on my first eCommerce MVC project as part of my portfolio, applying concepts of Clean Architecture and best practices in software design.
+🌱 Continuously improving my skills in .NET MVC, Entity Framework, and SQL Server.
 </p>
 
 ---
@@ -20,14 +21,21 @@ Currently, I’m focused on becoming a <strong>Backend Developer</strong>, impro
 <h2>🛠️ Tech Stack</h2>
 
 <p align="left">
+  
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
+  <br>
+  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <br>
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
+  <br>
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
