@@ -10,13 +10,10 @@
 </picture>
 
 <p>
-I’m a <strong>Programmer student</strong> with a strong interest in software development, especially in backend technologies.<br>
-  
-I’m focused on backend development using .NET and C#, while learning front-end technologies to create complete, user-friendly solutions.
-
-Currently working on my first eCommerce MVC project as part of my portfolio, applying concepts of Clean Architecture and best practices in software design.
-
-Continuously improving my skills in .NET MVC, Entity Framework, and SQL Server.
+I’m a .NET Backend Developer with experience in enterprise application development using ASP.NET Core, C#,
+Entity Framework Core and SQL Server. Experienced in designing REST APIs applying Clean
+Architecture and SOLID principles. Focused on scalable backend development and software architecture
+best practices.
 </p>
 
 ---
